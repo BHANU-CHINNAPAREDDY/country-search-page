@@ -23,14 +23,14 @@ Displayed information includes:
   Fetch API – Retrieve and display country data dynamically
 
 🔧 Getting Started
-1. Clone the repository
+1. Clone the repository: 
   git clone https://github.com/BHANU-CHINNAPAREDDY/country-search-page.git
 
-2. Navigate to the project folder
+2. Navigate to the project folder: 
   cd country-search-page
 
-3. Open the project
+3. Open the project: 
   Simply open index.html in your browser
 
-4. Start typing in the search box
+4. Start typing in the search box: 
   Country list updates in real time based on your input.
